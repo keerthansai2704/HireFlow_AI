@@ -1,0 +1,15 @@
+# Python environment and dependencies
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Environment variables (Crucial for security!)
+.env
+
+# Docker/IDE configurations
+.dockerignore
+.vscode/
+.idea/
+.DS_Store
